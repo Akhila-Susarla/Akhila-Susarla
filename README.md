@@ -1,100 +1,109 @@
-<div align="center">
+<h1 align="center">Akhila Susarla</h1>
 
-# Akhila Susarla
+<p align="center">
+  <strong>AI Engineer · Data Scientist · MLOps</strong><br/>
+  Building production voice AI, LLM pipelines, and data systems that scale<br/>
+  MS Computer Science @ UT Dallas (May 2026)
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C9D1D9&center=true&vCenter=true&random=false&width=650&lines=AI+%2F+ML+Engineer;Data+Scientist;Conversational+AI+Builder;Voice+AI+%7C+LLMs+%7C+MLOps;UT+Dallas+%C2%B7+MS+Computer+Science" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/akhila-susarla/">LinkedIn</a> ·
+  <a href="mailto:akhilasusarla@gmail.com">Email</a> ·
+  <a href="https://github.com/Akhila-Susarla">GitHub</a>
+</p>
 
-<a href="https://www.linkedin.com/in/akhila-susarla/"><img src="https://img.shields.io/badge/-LinkedIn-555555?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Akhila-Susarla"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:akhilasusarla@gmail.com"><img src="https://img.shields.io/badge/-Email-444444?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+---
 
-</div>
+<img align="right" src="https://i.pinimg.com/originals/a2/2f/94/a22f94de8558e615eae70781f82fa5ec.gif" width="280" />
 
-### Hi, I'm Akhila!
+### About me
 
-AI/ML engineer with a focus on building production-grade conversational AI systems, LLM pipelines, and data science solutions that ship and scale. I hold an **MS in Computer Science from UT Dallas** (GPA 3.78) and a **B.S. in CS (AI/ML) from SRM University**. My path has taken me from classical ML and data engineering to deploying voice bots that handle 10,000+ daily interactions.
+I'm an AI/ML engineer who loves building things that actually ship. From optimizing water treatment plants with SINDy and MPC, to deploying a voice bot handling 10K+ daily calls at Copart — I work across the full ML lifecycle: data, modeling, deployment, and monitoring.
 
-- <img src="https://img.shields.io/badge/Currently-555555?style=flat-square&logo=buildkite&logoColor=white" height="18"/> Building production **Conversational Voice AI** at **Copart Inc.** — 10K+ daily calls, sub-2s latency
-- <img src="https://img.shields.io/badge/Shipped-444444?style=flat-square&logo=rocket.chat&logoColor=white" height="18"/> Improved IVR navigation accuracy from **78% → 94%** and cut deployment time by **93%** via MLOps automation
-- <img src="https://img.shields.io/badge/Research-666666?style=flat-square&logo=semanticscholar&logoColor=white" height="18"/> Published at **Springer FICTA 2023** — Influence Maximization in Complex Networks
-- <img src="https://img.shields.io/badge/Stack-555555?style=flat-square&logo=openai&logoColor=white" height="18"/> Working with **Gemini 2.5, GPT, Claude**, LiveKit, Deepgram, ElevenLabs, LangChain, LoRA/QLoRA
-- <img src="https://img.shields.io/badge/Cloud-444444?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> Deploying on **AWS · GCP (Vertex AI, BigQuery) · Kubernetes · Spinnaker**
+I hold an **MS in CS from UT Dallas** (GPA 3.78) and a **B.S. in CS (AI/ML) from SRM University**. My work spans conversational AI, LLM fine-tuning, time-series forecasting, and large-scale data pipelines.
 
-<br>
+- Currently building **production voice AI** at Copart — LiveKit, Gemini 2.5, Deepgram, ElevenLabs
+- Fine-tuning LLMs with **LoRA/QLoRA** on historical call transcripts
+- Published at **Springer FICTA 2023** — Influence Maximization in Complex Networks
+- Prev: **American Airlines** (data engineering) · **Autodesk** (ML for water treatment)
 
-## Tech Stack
+<br clear="right"/>
 
-<div align="center">
+---
 
-**Languages**
+### Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" title="Python" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40" title="PyTorch" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" title="TensorFlow" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="40" title="scikit-learn" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40" title="AWS" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="40" title="GCP" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" title="Kubernetes" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" title="Docker" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" title="MongoDB" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40" title="SQL" /></a>
+</p>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" title="TypeScript" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="40" title="C#" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40" title="C/C++" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" title="Git" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=jupyter" width="40" title="Jupyter" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" width="40" title="Kafka" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40" title="Azure" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" title="Postman" /></a>&nbsp;
+  <a href="#"><img src="https://skillicons.dev/icons?i=unity" width="40" title="Unity" /></a>
+</p>
 
-**AI / ML**
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-101010?style=flat-square" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/LiveKit-101114?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LoRA%2FQLoRA-555555?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LiveKit-101114?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Deepgram-101010?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white" />
+---
 
-**Data Science & Engineering**
+### Impact
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+```
+10,000+    daily interactions on production voice bot · Copart
+95%        voice recognition accuracy achieved
+78% → 94%  IVR navigation accuracy improvement through prompt engineering
+93%        faster deployments — 45 min → 3 min via MLOps automation
+$2M+       inventory discrepancies surfaced · American Airlines
+20%        operating cost reduction in water treatment · Autodesk (via SINDy + MPC)
+95.2%      COVID-19 case prediction accuracy · Research
+```
 
-**Cloud / MLOps**
+---
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
-<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square&logo=spinnaker&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+### Projects
 
-</div>
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **Real-time NER Radar** | Streams Reddit comments, runs NER, visualizes entity trends in Kibana | Kafka, PySpark, Elasticsearch, NLTK |
+| **Sentiment Analysis Pipeline** | End-to-end NLP pipeline for social media sentiment classification | Python, scikit-learn, NLP frameworks |
+| **CorroSight** | Conversational AI chatbot for querying complex datasets via natural language | LLMs, analytics dashboard |
+| **UniWay** | Analytics-driven campus navigation prototype for CBRE — 2nd Runner-Up UXperience | Figma, analytics |
 
-<br>
+---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akhila-Susarla&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&line_height=21&include_all_commits=true" alt="Akhila Susarla's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akhila-Susarla&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6&hide=html,css,shell" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhila-Susarla&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhila-Susarla&theme=github_dark" alt="Profile Details" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akhila-Susarla&theme=github_dark&utcOffset=-6" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akhila-Susarla&theme=github_dark" alt="Stats" />
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <sub>From water treatment plants to voice bots serving 10K+ calls a day — building AI that works in the real world.</sub>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Akhila-Susarla&style=flat&color=grey" alt="Profile views">
-</div>
+</p>
