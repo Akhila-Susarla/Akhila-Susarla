@@ -1,9 +1,7 @@
 <h1 align="center">Akhila Susarla</h1>
 
 <p align="center">
-  <strong>AI Engineer · Data Scientist · MLOps</strong><br/>
-  Building production voice AI, LLM pipelines, and data systems that scale<br/>
-  MS Computer Science @ UT Dallas (May 2026)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&delay=0&speed=30&color=C9D1D9&center=true&vCenter=true&random=false&width=650&lines=AI+%2F+ML+Engineer;Data+Scientist;Conversational+AI+Builder;Voice+AI+%7C+LLMs+%7C+MLOps;UT+Dallas+%C2%B7+MS+Computer+Science" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -33,47 +31,56 @@ I hold an **MS in CS from UT Dallas** (GPA 3.78) and a **B.S. in CS (AI/ML) from
 
 ### Tech Stack
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python" width="40" title="Python" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="40" title="PyTorch" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" title="TensorFlow" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=sklearn" width="40" title="scikit-learn" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40" title="AWS" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=gcp" width="40" title="GCP" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" title="Kubernetes" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40" title="Docker" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40" title="MongoDB" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40" title="SQL" /></a>
-</p>
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40" title="TypeScript" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cs" width="40" title="C#" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40" title="C/C++" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40" title="Git" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=jupyter" width="40" title="Jupyter" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=kafka" width="40" title="Kafka" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40" title="Azure" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40" title="Postman" /></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=unity" width="40" title="Unity" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deepgram-101010?style=flat-square" />
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/LiveKit-101114?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LoRA%2FQLoRA-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/LiveKit-101114?style=flat-square" />
+<img src="https://img.shields.io/badge/Deepgram-101010?style=flat-square" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square" />
+
+**Data Science & Engineering**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+
+**Cloud / MLOps**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white" />
+<img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Spinnaker-139BB4?style=flat-square&logo=spinnaker&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+
+</div>
 
 ---
 
