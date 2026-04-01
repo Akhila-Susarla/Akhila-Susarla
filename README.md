@@ -16,13 +16,13 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="25px" /> About me
 
-I'm an AI/ML engineer who loves building things that actually ship. From optimizing water treatment plants with SINDy and MPC, to deploying a voice bot handling 10K+ daily calls at Copart — I work across the full ML lifecycle: data, modeling, deployment, and monitoring.
+I'm an AI/ML engineer who loves building things that actually ship. From optimizing water treatment plants with SINDy and MPC, to deploying a voice bot handling 10K+ daily calls at Copart. I work across the full ML lifecycle: data, modeling, deployment, and monitoring.
 
 I hold an **MS in CS from UT Dallas** (GPA 3.78) and a **B.S. in CS (AI/ML) from SRM University**. My work spans conversational AI, LLM fine-tuning, time-series forecasting, and large-scale data pipelines.
 
-- 🎙️ Currently building **production voice AI** at Copart — LiveKit, Gemini 2.5, Deepgram, ElevenLabs
+- 🎙️ Currently building **production voice AI** at Copart (LiveKit, Gemini 2.5, Deepgram, ElevenLabs)
 - 🧠 Fine-tuning LLMs with **LoRA/QLoRA** on historical call transcripts
-- 📄 Published at **Springer FICTA 2023** — Influence Maximization in Complex Networks
+- 📄 Published at **Springer FICTA 2023**: Influence Maximization in Complex Networks
 - 🏢 Prev: **American Airlines** (data engineering) · **Autodesk** (ML for water treatment)
 
 <br clear="right"/>
@@ -110,7 +110,7 @@ I hold an **MS in CS from UT Dallas** (GPA 3.78) and a **B.S. in CS (AI/ML) from
 ---
 
 <p align="center">
-  <sub>From water treatment plants to voice bots serving 10K+ calls a day — building AI that works in the real world.</sub>
+  <sub>From water treatment plants to voice bots serving 10K+ calls a day, building AI that works in the real world.</sub>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Akhila-Susarla&style=flat&color=grey" alt="Profile views">
 </p>
