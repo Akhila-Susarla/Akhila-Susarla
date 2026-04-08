@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/akhila-susarla/">LinkedIn</a> ·
   <a href="mailto:akhilasusarla@gmail.com">Email</a> ·
   <a href="https://github.com/Akhila-Susarla">GitHub</a>
+  <a href="https://akhilasusarla.com">Portfolio</a>a
 </p>
 
 ---
